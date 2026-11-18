@@ -1,0 +1,177 @@
+[
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What is the course title and course code for the 7th semester ISE professional core course?",
+    "answer": "The course title is 'Cloud Computing & Big Data Analytics' and the course code is 'BIS701'.",
+    "source": "CCBDA Syllabus - Page 5"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "Which institution and university scheme does the BIS701 course belong to?",
+    "answer": "It belongs to Dayananda Sagar Academy of Technology & Management (DSATM), an Autonomous Institute under Visvesvaraya Technological University (VTU), following the Scheme of Teaching and Examinations for BE Programme 2023-24 under Outcome Based Education (OBE) and Choice Based Credit System (CBCS).",
+    "source": "CCBDA Syllabus - Page 5, 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What is the course category, type, and credit structure of BIS701?",
+    "answer": "The course category is Professional Core Course (PCC) / Program Core, the type is Theory, and the credit distribution is 3:0:0:0 (Lecture: 3, Tutorial: 0, Practical: 0, Self-study/Project: 0), totaling 3 credits.",
+    "source": "CCBDA Syllabus - Page 2, 5"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the total teaching hours and hours allocated per module for BIS701?",
+    "answer": "The course comprises 40 total contact hours, scheduled at approximately 8 hours per module across 5 modules.",
+    "source": "CCBDA Syllabus - Page 2, 5, 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the total marks and exam duration for BIS701?",
+    "answer": "The course is evaluated for a total of 100 marks (50 Marks CIE + 50 Marks SEE). The Semester End Examination (SEE) duration is 3 hours.",
+    "source": "CCBDA Syllabus - Page 2, 5"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What is the weightage between Continuous Internal Evaluation (CIE) and Semester End Examination (SEE) for BIS701?",
+    "answer": "The weightage is 50% for Continuous Internal Evaluation (CIE) and 50% for Semester End Examination (SEE).",
+    "source": "CCBDA Syllabus - Page 2"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the minimum passing marks required in CIE, SEE, and aggregate for a 3-credit PCC course?",
+    "answer": "The minimum passing criteria are: 1) Minimum 40% in CIE (20 marks out of 50); 2) Minimum 35% in SEE (18 marks out of 50); 3) Minimum aggregate of 40% (40 marks out of 100) combining CIE and SEE together.",
+    "source": "CCBDA Syllabus - Page 2, 4"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "How is the Continuous Internal Evaluation (CIE) 50 marks broken down for BIS701?",
+    "answer": "The 50 CIE marks consist of two equal components of 25 marks each: 1) Internal Assessment Tests (IAT) scaled down to 25 marks, and 2) Continuous and Comprehensive Assessment (CCA) / Assignments scaled down to 25 marks.",
+    "source": "CCBDA Syllabus - Page 2, 4, 8"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "How are the Internal Assessment Tests (IAT) conducted and calculated for CIE?",
+    "answer": "Two IAT tests are conducted, each set for 50 marks with a duration of 1 hour 30 minutes. The average of both tests ((IAT-1 + IAT-2)/2) is calculated and reduced to 25 marks.",
+    "source": "CCBDA Syllabus - Page 2, 4"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "When are IAT-1 and IAT-2 administered during the semester?",
+    "answer": "The first test (IAT-1) is administered after 40-50% of the syllabus has been covered (Modules 1 to 2.5). The second test (IAT-2) is administered after 85-90% of the syllabus has been covered (Modules 2.5 to 5).",
+    "source": "CCBDA Syllabus - Page 2, 4"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "How are the Continuous and Comprehensive Assessment (CCA) activities conducted and scaled?",
+    "answer": "Two CCA activities (CCA-1 and CCA-2) are conducted to attain COs and POs, each evaluated for 50 marks. CCA-1 is conducted after the 4th week and CCA-2 after the 9th week. Total scored marks (CCA1 + CCA2) are scaled down to 10 marks (or 25 marks depending on the specific credit regulation clause). The evaluation is done via quizzes, rubrics, or pedagogical activities.",
+    "source": "CCBDA Syllabus - Page 2, 4"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "How is CCA evaluated if Project-Based Learning is adopted?",
+    "answer": "If project-based learning is chosen, only one assessment method is adopted for 50 marks: Review 1 is evaluated for 20 marks after the 6th week, and Review 2 is evaluated for 30 marks after the 12th week (including project demonstration/competition and report submission), which is scaled down to 10 marks.",
+    "source": "CCBDA Syllabus - Page 2, 3"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What is the question paper pattern for the Semester End Examination (SEE) in BIS701?",
+    "answer": "SEE is a theory examination conducted for 100 marks over a duration of 3 hours, and the scored marks are proportionally scaled down to 50 marks. The paper contains 10 questions in total, with 2 full questions set from each of the 5 modules (each having up to 3 sub-questions covering a mix of module topics). Students must answer 5 full questions, selecting exactly 1 question from each module.",
+    "source": "CCBDA Syllabus - Page 2, 4"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What topics and textbook chapters are covered in Module 1 of BIS701?",
+    "answer": "Module 1 (6 Hours) covers: Cloud Computing Models and Services, Creation of Virtual Machines and Docker Containers, Cloud Architectures and Resources Management. Reference: Text Book-2: Chapter 2: 2.1 to 2.3. Pedagogy: Blended Learning.",
+    "source": "CCBDA Syllabus - Page 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What topics and textbook chapters are covered in Module 2 of BIS701?",
+    "answer": "Module 2 (6 Hours) covers: Case Studies of IaaS, PaaS and SaaS Clouds (AWS cloud), Mobile Clouds and Inter-Cloud Mashup Services. Reference: Text Book-2: Chapter 2: 2.4 to 2.5. Pedagogy: Tool Usage.",
+    "source": "CCBDA Syllabus - Page 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What topics and textbook chapters are covered in Module 3 of BIS701?",
+    "answer": "Module 3 (8 Hours) covers: Introduction, Big Data, Scalability and Parallel Processing, Data Sources, Quality, Pre-Processing and Storing, Data Storage and Analysis, Big Data Applications and Case Studies. Reference: Text Book-1: Chapter 1: 1.1 to 1.7. Pedagogy: Poster Presentation.",
+    "source": "CCBDA Syllabus - Page 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What topics and textbook chapters are covered in Module 4 of BIS701?",
+    "answer": "Module 4 (10 Hours) covers: Hadoop and its Ecosystem, Hadoop Distributed File System (HDFS), MapReduce Framework and Programming Model, Hadoop YARN (Resource Management), Hadoop Ecosystem Tools. Reference: Text Book-2: Chapter 2: 2.1 to 2.6. Pedagogy: Case Study.",
+    "source": "CCBDA Syllabus - Page 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What topics and textbook chapters are covered in Module 5 of BIS701?",
+    "answer": "Module 5 (10 Hours) covers: Introduction, MapReduce: Core Concepts & Execution, Composing MapReduce for Algorithms, HiveQL (Query Language), Pig (Apache Pig). Reference: Text Book-1: Chapter 4: 4.1 to 4.6. Pedagogy: Think Pair and Share.",
+    "source": "CCBDA Syllabus - Page 6"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the Course Learning Objectives for BIS701 Cloud Computing & Big Data Analytics?",
+    "answer": "The objectives are: 1) Understand Big Data fundamentals, including characteristics, evolution, and architecture; 2) Implement distributed storage and processing using the Hadoop ecosystem (HDFS, YARN, MapReduce), Hive, and Pig; 3) Develop solutions and assess performance by deploying on the cloud; 4) Solve problems using big data analytics techniques using tools like Spark for extracting insights from data.",
+    "source": "CCBDA Syllabus - Page 5"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the 5 Course Outcomes (COs) and their Revised Bloom's Taxonomy (RBT) levels for BIS701?",
+    "answer": "CO1: Understand the fundamental concepts of Big Data and cloud architecture, and applications (Level: Understand / L2); CO2: Apply the working principles of Hadoop ecosystem components such as HDFS, YARN, MapReduce, PAAS, SAAS in cloud architecture to obtain an efficient solution (Level: Apply / L3); CO3: Analyze various problems in real world cases with the usage of big data tools and cloud implementation (Level: Analyze / L4); CO4: Evaluate and solve different cases studies for real-world applications (Level: Evaluate / L5); CO5: Develop integrated big data solutions combining Hadoop, Spark, Hive, Pig, and cloud services for real-world applications (Level: Create / L6).",
+    "source": "CCBDA Syllabus - Page 6, 7"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the prescribed Textbooks for BIS701?",
+    "answer": "1) Text Book-1: 'Big Data Analytics, Introduction to Hadoop, Spark and Machine Learning' by Rajkamal and Preeti Saxena, McGraw Hill Publication, 2019. 2) Text Book-2: 'Big-Data Analytics for Cloud, IoT and Cognitive Computing' by Kai Hwang and Min Chen, Wiley, 2017.",
+    "source": "CCBDA Syllabus - Page 7"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the prescribed Reference Books for BIS701?",
+    "answer": "1) 'Designing Data-Intensive Applications' by Martin Kleppmann, 2017; 2) 'Hadoop: The Definitive Guide' by Tom White, O'Reilly Media, 2015; 3) 'Big Data Fundamentals: Concepts, Drivers & Techniques' by Thomas Erl, Wajid Khattak, and Paul Buhler, Pearson India Education Service Pvt. Ltd., 1st Edition, 2016; 4) 'Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples' by John D. Kelleher, Brian Mac Namee, and Aoife D'Arcy, MIT Press, 2nd Edition, 2020.",
+    "source": "CCBDA Syllabus - Page 7"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What AI tools and platforms are recommended in the BIS701 syllabus?",
+    "answer": "Code Generation & Debugging Tools: GitHub Copilot, Google Gemini, Amazon CodeWhisperer, Apache Superset, Oozie. Case Study Analytics Tools: Apache Spark MLlib, NLTK, Tableau, TextBlob, VADER. Big Data AI Platforms: Databricks, Google Cloud, AWS, Azure with AI Platform.",
+    "source": "CCBDA Syllabus - Page 7, 8"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What are the rubrics and mark allocations for the BIS701 Mini Project (CCA-2)?",
+    "answer": "The mini project is evaluated for 50 marks across 6 components: 1) Problem Definition & Objectives (Clarity, relevance): 5 Marks; 2) Methodology / Design (Logical approach, workflow architecture): 10 Marks; 3) Implementation / Tool usage (Completeness, technical execution): 15 Marks; 4) Testing & Results Analysis (Validation, interpretation): 10 Marks; 5) Documentation / Report (Formatting, completeness): 5 Marks; 6) Presentation & Viva (Communication, defense): 5 Marks.",
+    "source": "CCBDA Syllabus - Page 9, 10"
+  },
+  {
+    "department": "ISE",
+    "semester": "Sem 7",
+    "question": "What is the Bloom's Category marks breakdown for the Semester End Examination (SEE)?",
+    "answer": "For SEE (100 marks scaled down to 50; 90% theory + 10% practical questions): Remember: 10 marks (10%); Understand: 10 marks (10%); Apply: 30 marks (30%); Analyse: 20 marks (20%); Evaluate: 15 marks (15%); Create: 15 marks (15%).",
+    "source": "CCBDA Syllabus - Page 10"
+  }
+]
